@@ -14,5 +14,8 @@ A desktop banking application built with Python and Tkinter.
 python main.py
 
 Note: the admin password in the code is for demonstration only.
+
+
 <img width="1920" height="1020" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/cf2ecb89-3d84-49ea-a5df-0318eb205f55" />
+
 <img width="1920" height="1021" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/35e4cf3f-8291-45aa-bc42-e96905d11655" />
